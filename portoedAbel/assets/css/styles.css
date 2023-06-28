@@ -370,46 +370,45 @@ row-gap: 1rem;
 }
 
 /*==================== ABOUT ====================*/
-.aboutimg {
+.about__img {
   width: 200px;
   border-radius: .5rem;
   justify-self: center;
   align-self: center;
 }
 
-.aboutdescription {
+.about__description {
   text-align: center;
   margin-bottom: var(--mb-2-5);
 
 }
 
-.aboutinfo {
+.about__info {
   display: flex;
   justify-content: space-evenly;
   margin-bottom: var(--mb-2-5);
 }
 
-.aboutinfo-title {
+.about__info-title {
   font-size: var(--h2-font-size);
   font-weight: var(--font-semi-bold);
   color: var(--title-color);
 }
-.aboutinfo-name {
+.about___info-name {
   font-size: var(--smaller-font-size);
 }
 
-.aboutinfo-title,
-.aboutinfo-name {
+.about__info-title,
+.about__info-name {
   display: block;
   text-align: center;
 
 }
 
-.aboutbuttons {
+.abou__buttons {
   display: flex;
   justify-content: center;
 }
-
 /*==================== SKILLS ====================*/
 .skills__container{
   row-gap: 0;
