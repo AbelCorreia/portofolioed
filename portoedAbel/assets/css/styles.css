@@ -500,6 +500,10 @@ row-gap: 1rem;
   width: 70%;
 }
 
+.skills__python{
+  width: 60%;
+}
+
 .skills__close .skills__list{
   height: 0;
   overflow: hidden;
