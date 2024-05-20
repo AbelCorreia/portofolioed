@@ -324,7 +324,7 @@ row-gap: 1rem;
 }
 
 .home__blob-img{
-  width: 200px;
+  width: 176px;
   display: flex;
   justify-content: left;
   align-items: left;
@@ -457,10 +457,8 @@ row-gap: 1rem;
   justify-content: center;
 }
 /*==================== SKILLS ====================*/
-.skills__container {
-  max-width: 1200px; /* Vous pouvez ajuster cette valeur en fonction de vos besoins */
-  margin: 0 auto; /* Centrer le contenu */
-  padding: 0 20px; /* Ajouter un peu d'espace sur les côtés */
+.skills__container{
+  row-gap: 0;
 }
 
 .skills__header{
